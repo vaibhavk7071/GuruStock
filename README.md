@@ -27,6 +27,8 @@ The project has been made using [Python 3.10](https://www.python.org/downloads/r
 ----------------
 * A developer account on [Twitter Developers](https://developer.twitter.com/en/portal/dashboard) to get the keys and ID for authentication and using the Twitter API. Secondly, apply for the [elevated access](https://developer.twitter.com/en/portal/products/elevated) on the portal for the particular project.
 * Install all the modules required.
+* On an Intel i5 10th Gen processor the program takes about 30 minutes to run, so patience is one.
+* Since the hyperparameter tuning for random forest regressor is random, getting the desired output might take a few runs.
 
 #### THE UPDATES WILL BE MADE AS SOON AS POSSIBLE
 ----------------
